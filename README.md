@@ -2,7 +2,7 @@
 
 All songs released by The Beatles as a group are included in 
 this database. It includes 285 songs described by 26 features.
-The original database has 45 columns, but i removed some to streamline it,
+The original database has 45 columns, but some were removed to streamline it,
 leaving out data on the success on popular charts. 
 
 
