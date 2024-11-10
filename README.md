@@ -1,14 +1,14 @@
 # Assignment 1 | Collecting Data 
 
 All songs released by The Beatles as a group are included in 
-this database. It includes 285 songs described by 26 features.
+this database. It contains 285 songs described by 26 features.
 The original database has 45 columns, but some were removed to streamline it,
 leaving out data on the success on popular charts. 
 
 
 | Variable name | Description |                       
 | -------------------- | ---------------------------------------------------------------------------------------------------- |
-|#URI                  | The song's Spotify ID                                                                                |
+| URI                  | The song's Spotify ID                                                                                |
 | Title                | The song title                                                                                       |
 | Year                 | The year the song was released                                                                       |
 | Album                | Album where the song was first released (if applicable)                                              |
