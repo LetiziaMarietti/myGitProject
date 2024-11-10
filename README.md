@@ -8,7 +8,7 @@ leaving out data on the success on popular charts.
 
 | Variable name | Description |                       
 | -------------------- | ---------------------------------------------------------------------------------------------------- |
-|# URI                  | The song's Spotify ID                                                                                |
+|#URI                  | The song's Spotify ID                                                                                |
 | Title                | The song title                                                                                       |
 | Year                 | The year the song was released                                                                       |
 | Album                | Album where the song was first released (if applicable)                                              |
